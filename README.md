@@ -22,7 +22,7 @@ Compile the following files and link them:
 
 After the compilation, you can run the program with a benchmark file and check the result from MathSAT.
 
-run format: ./<youroutputfile> <benchmarkfile> <boundLimit>
+run format: ./\<youroutputfile\> \<benchmarkfile\> \<boundLimit\>
 
 * boundlimit should be an integer and benchmarkfile should be a .c file. You can use the provided benchmarks for testing & initial bug fixing.
 
