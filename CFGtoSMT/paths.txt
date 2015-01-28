@@ -1,0 +1,2 @@
+/Users/alicangoksel/Downloads/clang+llvm-3.3-x86_64-apple-darwin12/bin
+/Users/alicangoksel/Downloads/mathsat-5.2.10-darwin-libcxx-x86_64/bin
