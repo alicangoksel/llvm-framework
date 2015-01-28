@@ -8,8 +8,9 @@ External tools you need:
 Clang-LLVM 3.3+
 Mathsat 5.2+
 
-1) Modify the paths.txt and add your clang and mathsat path. You can modify the existing file to see the format.
-2) Currently, the files to be tested are hardcoded. But the argument version is commented, you can just uncomment it and use with the argument.
+* Modify the paths.txt and add your clang and mathsat path. You can modify the existing file to see the format. 
+
+* Currently, the files to be tested are hardcoded. But the argument version is commented, you can just uncomment it and use with the argument.
 
 Compile the following files and link them (or you can directly use the makefile):
 
