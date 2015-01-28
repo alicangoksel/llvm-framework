@@ -10,7 +10,7 @@ Mathsat 5.2+
 
 * Modify the paths.txt and add your clang and mathsat path. You can modify the existing file to see the format. 
 
-* Currently, the files to be tested are hardcoded. But the argument version is commented, you can just uncomment it and use with the argument.
+* Sometimes, you might get error while trying to generate the .ll file using the code. The hardcoded part is commented, you can try to use hardcoded version to troubleshoot the problem, if it's related to the Framework code or clang conversion.
 
 Compile the following files and link them (or you can directly use the makefile):
 
